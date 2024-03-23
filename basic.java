@@ -1,1 +1,2 @@
-my fist GitHub
+import java.lang.*;
+class basic
