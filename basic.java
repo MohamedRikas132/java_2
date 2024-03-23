@@ -1,2 +1,2 @@
 import java.lang.*;
-class basic
+class basicst
